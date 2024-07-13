@@ -1,4 +1,4 @@
-![Template rluipdev](Template/rluispdev(1).png)
+![Template rluipdev](template/rluispdev.png)
 # Interface "bomSaber"
 
 ## 🚀 Desafio do Projeto.
